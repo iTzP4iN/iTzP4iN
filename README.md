@@ -4,9 +4,9 @@ Tenho uma carreira voltada ao suporte usuario, teste sistema, criação de manua
 Além do ENTRA21, sigo fazendo cursos para aprender sobre framework Spring e React.
 
 <div align="center">
-  <a href="https://github.com/iTzP4iN">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iTzP4iN&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iTzP4iN&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/FDBC-T1t4N">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FDBC-T1t4N&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FDBC-T1t4N&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
   <div style="display: inline_block"><br>
