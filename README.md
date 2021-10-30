@@ -30,7 +30,7 @@ Além do ENTRA21, sigo fazendo cursos para aprender sobre framework Spring e Rea
   <a href = "mailto:fdbautista90@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/fernando-delgado-bautista/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/iTzP4iN/iTzP4iN/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/FDBC-T1t4N/FDBC-T1t4N/blob/output/github-contribution-grid-snake.svg)
  
 </div>
   
