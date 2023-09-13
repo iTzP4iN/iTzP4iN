@@ -11,8 +11,8 @@ porém atualmente venho estudando o mundo mobile, mas aqui nesse perfil você en
 </div>
 
   <div style="display: inline_block"><br>
-  <img align="center" alt="LinkedIn" height="30" width="40" href="https://www.linkedin.com/in/fernando-delgado-bautista/" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/linkedin-original.svg">  
   <img align="center" alt="Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
+  <img align="center" alt="Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">   
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">  
   <img align="center" alt="Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img align="center" alt="PostgresSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
