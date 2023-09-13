@@ -1,9 +1,27 @@
 ## Ola meu nome é Fernando! Seja Bem-vindo ao meu perfil! 👋
 
-Tenho uma carreira voltada area da tecnologia sendo ela desde a area de suporte, desenvolvimento e QA,
-porém atualmente venho estudando o mundo mobile, mas aqui nesse perfil você encontrara repositorios referente outras linguagens/framework pois sempre gostei de aprender coisas novas e ter possibilidade inifinita de criação podendo usar varias tecnologia diferentes.
+Sou Fernando Delgado Bautista, um entusiasta da tecnologia e apaixonado por programação. Quero compartilhar um pouco sobre quem sou e o que me motiva no mundo da tecnologia.
 
+Quem Sou:
+Sou um programador dedicado com ampla experiência em diversas linguagens e tecnologias. Atualmente, meu foco principal está nas seguintes áreas:
 
+Linguagens de Programação: Tenho conhecimento e experiência em várias linguagens, incluindo Java, Dart, Kotlin e Spring. Essas linguagens me proporcionam uma base sólida para desenvolver uma ampla gama de aplicativos e sistemas.
+
+Flutter: Estou profundamente envolvido com o desenvolvimento de aplicativos móveis usando o framework Flutter. Adoro a maneira como o Flutter permite criar aplicativos nativos para iOS e Android com uma base de código única e elegante.
+
+Educação:
+Estou atualmente concluindo minha graduação em Engenharia de Software. Esta jornada acadêmica tem sido fundamental para aprimorar minhas habilidades de resolução de problemas e pensamento crítico, além de me proporcionar a oportunidade de colaborar em projetos desafiadores.
+
+Metas Futuras:
+Minhas ambições não param por aí. Após a graduação, pretendo continuar minha educação com uma pós-graduação na área de tecnologia da informação. Estou ansioso para aprofundar meu conhecimento e explorar novas áreas de pesquisa.
+
+Idioma:
+Sou fluente em inglês, o que me permite participar de comunidades globais de desenvolvimento e acessar uma riqueza de recursos e informações valiosas na área de tecnologia.
+
+Auto-Didata:
+Uma das minhas características mais marcantes é minha abordagem autodidata para aprender. Sempre estou em busca de novos desafios e oportunidades para expandir meu conjunto de habilidades.
+
+Se você está interessado em discutir tecnologia, programação, ou apenas trocar ideias, sinta-se à vontade para entrar em contato comigo. Estou sempre empolgado em fazer novas conexões e aprender com outros entusiastas da tecnologia. Juntos, podemos explorar o mundo em constante evolução da programação e da engenharia de software
 <div align="center">
   <a href="https://github.com/F-Delgado">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=F-Delgado&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
