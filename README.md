@@ -16,7 +16,7 @@ Metas Futuras:
 Minhas ambições não param por aí. Após a graduação, pretendo continuar minha educação com uma pós-graduação na área de tecnologia da informação. Estou ansioso para aprofundar meu conhecimento e explorar novas áreas de pesquisa.
 
 Idioma:
-Sou fluente em inglês, o que me permite participar de comunidades globais de desenvolvimento e acessar uma riqueza de recursos e informações valiosas na área de tecnologia.
+Em inglês sou intermediário, o que me permite participar de comunidades globais de desenvolvimento e acessar uma riqueza de recursos e informações valiosas na área de tecnologia.
 
 Auto-Didata:
 Uma das minhas características mais marcantes é minha abordagem autodidata para aprender. Sempre estou em busca de novos desafios e oportunidades para expandir meu conjunto de habilidades.
