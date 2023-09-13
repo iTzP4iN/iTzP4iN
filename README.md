@@ -1,15 +1,17 @@
 ## Ola meu nome é Fernando! Seja Bem-vindo ao meu perfil! 👋
 
-Tenho uma carreira voltada ao suporte usuario, teste sistema, criação de manual e treinamento para usuarios, porém atualmente estou me capacitando em Java focado em desenvolvimento Web pelo @ENTRA21, na qual quero me aprofundar na linguagem e aprender as suas diversas aplicações e frameworks.
-Além do ENTRA21, sigo fazendo cursos para aprender sobre framework Spring e React.
+Tenho uma carreira voltada area da tecnologia sendo ela desde a area de suporte, desenvolvimento e QA,
+porém atualmente venho estudando o mundo mobile, mas aqui nesse perfil você encontrara repositorios referente outras linguagens/framework pois sempre gostei de aprender coisas novas e ter possibilidade inifinita de criação podendo usar varias tecnologia diferentes.
+
 
 <div align="center">
-  <a href="https://github.com/FDBC-T1t4N">
+  <a href="https://github.com/F-Delgado">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=F-Delgado&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=F-Delgado&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
   <div style="display: inline_block"><br>
+  <img align="center" alt="LinkedIn" height="30" width="40" href="https://www.linkedin.com/in/fernando-delgado-bautista/" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/linkedin-original.svg">  
   <img align="center" alt="Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">  
   <img align="center" alt="Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
